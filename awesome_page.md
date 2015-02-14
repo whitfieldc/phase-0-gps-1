@@ -6,9 +6,10 @@
 
 #### Happy Valentines Day!
 
-`ruby
+```ruby
 def hello_world
 	puts "Hello World"
-end`
+end
+```
 
 [google](www.google.com)
